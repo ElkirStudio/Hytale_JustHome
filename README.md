@@ -35,7 +35,7 @@ You can customize all messages by editing these files.
 
 ## Installation
 
-1. Install [Kotale](https://github.com/helight/kotale) (required dependency)
+1. Install [Kotale](https://github.com/helightdev/kotale/releases) (required dependency)
 2. Download `JustHome-1.0.0-all.jar`
 3. Place it in your server's `mods/` folder
 4. Restart the server
