@@ -50,8 +50,8 @@ The JAR will be in `build/libs/JustHome-x.x.x-all.jar`
 
 ## Dependencies
 
-- Kotale
-- Kotlin Serialization
+- Kotale (https://github.com/helightdev/kotale/releases)
+- Kotlin Serialization (https://github.com/helightdev/kotale/releases)
 
 ## License
 
