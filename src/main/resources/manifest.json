@@ -1,0 +1,17 @@
+{
+  "Name": "JustHome",
+  "Group": "ElkirStudio",
+  "Version": "1.0.0",
+  "Authors": [
+    {
+      "Name": "razday",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Main": "dev.elkirstudio.justhome.JustHomePlugin",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Kotale:Kotale": "*"
+  }
+}
